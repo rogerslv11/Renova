@@ -346,8 +346,8 @@ export default function About() {
                   <span className="text-[10px] font-bold tracking-widest uppercase font-mono">Expertise Técnica de Elite</span>
                 </div>
                 <h3 className="font-display font-black text-4xl sm:text-5xl text-slate-900 tracking-tight leading-none">
-                  Marcos <br />
-                  Oliveira
+                  Victor <br />
+                  Joaquim
                 </h3>
                 <p className="text-slate-500 font-medium mt-4 text-lg">Fundador & Diretor Técnico</p>
               </div>
@@ -425,7 +425,7 @@ export default function About() {
                     </p>
                     <div className="mt-6 flex items-center gap-3 relative z-10">
                       <div className="w-8 h-px bg-primary" />
-                      <span className="text-sm font-mono tracking-widest uppercase text-slate-400">Marcos Oliveira</span>
+                      <span className="text-sm font-mono tracking-widest uppercase text-slate-400">Victor Joaquim</span>
                     </div>
                   </div>
                 </div>

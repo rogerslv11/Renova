@@ -271,17 +271,17 @@ export default function FAQ() {
           <div className="text-left max-w-md relative z-10">
             <h4 className="font-display font-extrabold text-slate-900 text-base sm:text-lg">Possui um vazamento grave ou precisa de laudo com ART?</h4>
             <p className="text-xs sm:text-sm text-slate-500 mt-2.5 leading-relaxed">
-              Fale diretamente com nosso diretor técnico Marcos Oliveira, engenheiro civil perito em patologia estrutural e impermeabilização de piscinas.
+              Fale diretamente com nosso diretor técnico Victor Joaquim, engenheiro civil perito em patologia estrutural e impermeabilização de piscinas.
             </p>
           </div>
           <a
-            href="https://wa.me/5551999999999?text=Ol%C3%A1%21+Gostaria+de+falar+com+o+Engenheiro+Marcos+sobre+minha+piscina."
+            href="https://wa.me/5551999999999?text=Ol%C3%A1%21+Gostaria+de+falar+com+o+Engenheiro+Victor+Joaquim+sobre+minha+piscina."
             target="_blank"
             referrerPolicy="no-referrer"
             className="w-full sm:w-auto px-6 py-4 bg-gradient-to-r from-emerald-500 to-green-600 hover:from-emerald-600 hover:to-green-700 text-white font-bold rounded-2xl text-xs sm:text-sm flex items-center justify-center gap-2.5 shadow-lg shadow-emerald-500/20 cursor-pointer shrink-0 transition-all hover:-translate-y-0.5 active:translate-y-0 relative z-10 hover:scale-[1.02]"
           >
             <MessageSquare className="w-4.5 h-4.5 fill-current" />
-            <span>Falar com o Engenheiro Marcos</span>
+            <span>Falar com o Engenheiro Victor Joaquim</span>
           </a>
         </div>
 
