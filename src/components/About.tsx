@@ -122,13 +122,13 @@ function TeamMemberCard({ member, idx }: TeamMemberCardProps) {
           onMouseMove={handleImageMouseMove}
           onMouseLeave={handleImageMouseLeave}
           onMouseEnter={handleImageMouseEnter}
-          className="relative w-full h-72 rounded-2.5xl overflow-hidden mb-6 border border-slate-100 shadow-inner bg-slate-100 cursor-pointer"
+          className="relative w-full h-80 sm:h-96 rounded-2.5xl overflow-hidden mb-6 border border-slate-100 shadow-inner bg-slate-100 cursor-pointer"
         >
           <img 
             ref={imageRef}
             src={member.image} 
             alt={member.name} 
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover object-top"
             referrerPolicy="no-referrer"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-slate-950/85 via-slate-900/15 to-transparent opacity-90 group-hover:opacity-95 transition-opacity duration-300 pointer-events-none" />

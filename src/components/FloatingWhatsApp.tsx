@@ -42,7 +42,7 @@ export default function FloatingWhatsApp() {
                   <img 
                     src={victorAvatar} 
                     alt="Victor Joaquim - Renova" 
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover object-top"
                   />
                   {/* Active online dot */}
                   <span className="absolute bottom-0 right-0 w-3.5 h-3.5 rounded-full bg-green-400 border-2 border-emerald-500" />
